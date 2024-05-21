@@ -2,3 +2,5 @@ exp_gpu/
 utils/dev/devdata/
 utils/test/testdata/
 utils/train/traindata/
+run_gpu.log
+
